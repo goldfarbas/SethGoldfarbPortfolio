@@ -56,9 +56,15 @@ __PNW Blockchain__
 
 ## Awards 
 
+__Kyber Network bounty at ETHDenver 2020__
+<br>
+Team Hakcers won a bounty for Alfred, a crypto inheritance tool that helps people create a "crypto will," generates proof-of-death, and enables designated executors to distribute digital assets to beneficiaries. Thanks to our integration with Kyber, beneficiaries can decide whether they prefer to receive assets "as-is" or automatically convert them to Ether. [Repo](https://github.com/EthDenverHakcers) [Slides](https://docs.google.com/presentation/d/14dsJ4v3y4DajJrekZNGvf-3xzFZHW7Y39WFRkdLKypk/edit?usp=sharing) [Video](https://youtu.be/qtGh3Ubjjnc)
+<br><br>
+<img src="images/ethdenver.png?raw=true"/>
+
 __3rd Place in Interoperability Challenge at 2019 WyoHackathon__
 <br>
-Seth's team took 3rd place in the Interoperability Challenge at the 2019 WyoHackathon with MyWallets, an application for digital wallet aggregation. [Repo](https://github.com/bgok/my-wallets) - [Slides](https://docs.google.com/presentation/d/137vz03s-33TVp9EP7tn_SyskN7OXJoK8mpGn_KqlqEU/edit?usp=sharing)
+Seth and his teammate took 3rd place in the Interoperability Challenge at the 2019 WyoHackathon with MyWallets, an application for digital wallet aggregation. [Repo](https://github.com/bgok/my-wallets) - [Slides](https://docs.google.com/presentation/d/137vz03s-33TVp9EP7tn_SyskN7OXJoK8mpGn_KqlqEU/edit?usp=sharing)
 <br><br>
 <img src="images/iuytrds.png?raw=true"/>
 
