@@ -6,9 +6,13 @@
 ---
 
 ## Contact
-[Gmail](mailto:goldfarbas@gmail.com) - [LinkedIn](https://www.linkedin.com/in/asethgoldfarb/)
+[Gmail: goldfarbas@gmail.com](mailto:goldfarbas@gmail.com)
 <br>
-[Twitter](https://twitter.com/GoldenChaosGod) - [Telegram](https://t.me/sethgoldfarb)
+[LinkedIn: https://www.linkedin.com/in/asethgoldfarb/](https://www.linkedin.com/in/asethgoldfarb/)
+<br>
+[Twitter: https://twitter.com/GoldenChaosGod](https://twitter.com/GoldenChaosGod)
+<br>
+[Telegram: https://t.me/sethgoldfarb](https://t.me/sethgoldfarb)
 
 ---
 
