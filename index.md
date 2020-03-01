@@ -1,5 +1,5 @@
 ## Experience
-[Resume](https://docs.google.com/document/d/1sNiGLyQzHfT1L1B6tK6n0QtXu6XuuLMMXQ3C-ON6q10/edit?usp=sharing)
+<a href="https://docs.google.com/document/d/1sNiGLyQzHfT1L1B6tK6n0QtXu6XuuLMMXQ3C-ON6q10/edit?usp=sharing" target="_blank">Resume</a>
 <br>
 [Publications](https://docs.google.com/spreadsheets/d/13bRyko9UmfNpYWu71-CijDEloMyfw2jTbXsmLbcHHW0/edit#gid=0)
 
