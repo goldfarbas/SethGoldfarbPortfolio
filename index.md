@@ -1,7 +1,7 @@
 ## Experience
 <a href="https://docs.google.com/document/d/1sNiGLyQzHfT1L1B6tK6n0QtXu6XuuLMMXQ3C-ON6q10/edit?usp=sharing" target="_blank">Resume</a>
 <br>
-[Publications](https://docs.google.com/spreadsheets/d/13bRyko9UmfNpYWu71-CijDEloMyfw2jTbXsmLbcHHW0/edit#gid=0)
+<a href="https://docs.google.com/spreadsheets/d/13bRyko9UmfNpYWu71-CijDEloMyfw2jTbXsmLbcHHW0/edit#gid=0" target="_blank">Publications</a>
 
 ---
 
@@ -58,9 +58,9 @@ __PNW Blockchain__
 
 __Kyber Network bounty at ETHDenver 2020__
 <br>
-Team Hakcers won a bounty for Alfred, a crypto inheritance tool that helps people create a "crypto will," generates proof-of-death, and enables designated executors to distribute digital assets to beneficiaries. Thanks to our integration with Kyber, beneficiaries can decide whether they prefer to receive assets "as-is" or automatically convert them to Ether. [Repo](https://github.com/EthDenverHakcers) [Slides](https://docs.google.com/presentation/d/14dsJ4v3y4DajJrekZNGvf-3xzFZHW7Y39WFRkdLKypk/edit?usp=sharing) [Video](https://youtu.be/qtGh3Ubjjnc)
+Team Hakcers won a bounty for Alfred, a crypto inheritance tool that helps people create a "crypto will," generates proof-of-death, and enables designated executors to distribute digital assets to beneficiaries. Thanks to our integration with Kyber, beneficiaries can decide whether they prefer to receive assets "as-is" or automatically convert them to Ether. [Repo](https://github.com/EthDenverHakcers) - [Slides](https://docs.google.com/presentation/d/14dsJ4v3y4DajJrekZNGvf-3xzFZHW7Y39WFRkdLKypk/edit?usp=sharing) - [Video](https://youtu.be/qtGh3Ubjjnc)
 <br><br>
-<img src="images/ethdenver.png?raw=true"/>
+<img src="images/ETHDenver.png?raw=true"/>
 
 __3rd Place in Interoperability Challenge at 2019 WyoHackathon__
 <br>
