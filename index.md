@@ -8,11 +8,11 @@
 ## Contact
 Gmail: [goldfarbas@gmail.com](mailto:goldfarbas@gmail.com)
 <br>
-LinkedIn: [https://www.linkedin.com/in/asethgoldfarb/](https://www.linkedin.com/in/asethgoldfarb/)
+LinkedIn: <a href="https://www.linkedin.com/in/asethgoldfarb/" target="_blank">https://www.linkedin.com/in/asethgoldfarb/</a>
 <br>
-Twitter: [https://twitter.com/GoldenChaosGod](https://twitter.com/GoldenChaosGod)
+Twitter: <a href="https://twitter.com/GoldenChaosGod" target="_blank">https://twitter.com/GoldenChaosGod</a>
 <br>
-Telegram: [https://t.me/sethgoldfarb](https://t.me/sethgoldfarb)
+Telegram: <a href="https://t.me/sethgoldfarb" target="_blank">https://t.me/sethgoldfarb</a>
 
 ---
 
