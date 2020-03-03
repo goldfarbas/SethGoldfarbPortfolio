@@ -16,4 +16,4 @@ stories.
 ### Still curious about what content marketing is?
 
 ## Read <a href="https://medium.com/@goldfarbas/what-is-content-marketing-anyway-c6a5f3275073" target="_blank">What is Content Marketing, Anyway?</a>
-<a href="https://medium.com/@goldfarbas/what-is-content-marketing-anyway-c6a5f3275073" target="_blank"><img src="images/ContentMktg.png"></a>
+<a href="https://medium.com/@goldfarbas/what-is-content-marketing-anyway-c6a5f3275073" target="_blank"><img src="../images/ContentMktg.png"></a>
