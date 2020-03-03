@@ -22,8 +22,6 @@ Telegram: <a href="https://t.me/sethgoldfarb" target="_blank">https://t.me/sethg
 <a href="pages/copywriting" target="_blank"><img src="images/Copywriting1.png?raw=true"/></a>
 <a href="pages/socialmedia" target="_blank"><img src="images/Social1.png?raw=true"/></a>
 
-<img src="images/.png?raw=true"/
-
 ---
 
 ## Portfolio 
