@@ -17,7 +17,7 @@ Telegram: <a href="https://t.me/sethgoldfarb" target="_blank">https://t.me/sethg
 ---
 
 ## Skills
-<a href="pages/storytelling" target="_blank"><img src="images/Storytelling1.png?raw=true"/></a>
+<a href="pages/storytelling" target="_blank"><img src="images/Storytelling1.png?raw=true" hover:opacity="0.5"/></a>
 <a href="pages/contentmarketing" target="_blank"><img src="images/content1.png?raw=true"/></a>
 <a href="pages/copywriting" target="_blank"><img src="images/Copywriting1.png?raw=true"/></a>
 <a href="pages/socialmedia" target="_blank"><img src="images/Social1.png?raw=true"/></a>
