@@ -1,10 +1,3 @@
-## Experience
-<a href="https://docs.google.com/document/d/1sNiGLyQzHfT1L1B6tK6n0QtXu6XuuLMMXQ3C-ON6q10/edit?usp=sharing" target="_blank">Resume</a>
-<br>
-<a href="https://docs.google.com/spreadsheets/d/13bRyko9UmfNpYWu71-CijDEloMyfw2jTbXsmLbcHHW0/edit#gid=0" target="_blank">Publications</a>
-
----
-
 ## Contact
 Gmail: [goldfarbas@gmail.com](mailto:goldfarbas@gmail.com)
 <br>
@@ -16,15 +9,28 @@ Telegram: <a href="https://t.me/sethgoldfarb" target="_blank">@sethgoldfarb</a>
 
 ---
 
-## Skills
-<a href="pages/storytelling" target="_blank"><img src="images/Storytelling1.png?raw=true"/></a>
-<a href="pages/contentmarketing" target="_blank"><img src="images/content1.png?raw=true"/></a>
-<a href="pages/copywriting" target="_blank"><img src="images/Copywriting1.png?raw=true"/></a>
-<a href="pages/socialmedia" target="_blank"><img src="images/Social1.png?raw=true"/></a>
+## Experience
+<a href="https://docs.google.com/document/d/1sNiGLyQzHfT1L1B6tK6n0QtXu6XuuLMMXQ3C-ON6q10/edit?usp=sharing" target="_blank">Resume</a>
+<br>
+<a href="https://docs.google.com/spreadsheets/d/13bRyko9UmfNpYWu71-CijDEloMyfw2jTbXsmLbcHHW0/edit#gid=0" target="_blank">Publications</a>
+
+## How do you make DeFi accessible?
+
+<a href="../pages/defi"><img src="images/defilogos.png?raw=true"/></a>
+
+<br>
+
+## What's the business case for self-sovereign identity?
+
+<a href="../pages/ssi"><img src="images/evernymlogo.png?raw=true"/></a>
+
+<br>
+
+## What's the latest in blockchain?
+
+<a href="../pages/news"><img src="images/news.png?raw=true"/></a>
 
 ---
-
-## Portfolio 
 
 __Writing__
 <br>
@@ -42,13 +48,17 @@ Seth's [publications](https://docs.google.com/spreadsheets/d/13bRyko9UmfNpYWu71-
   * [PNW Blockchain](https://twitter.com/pnwblockchain)
   
 ---
+
+## Volunteer Work
+
 __DeFi School__
 <br>
 [DeFi School](https://defi.school/) is dedicated to educating people on the emerging field of decentralized finance (DeFi). DeFi is a movement to develop transparent, open-source financial software that remains available to users without regard for traditional gatekeepers.
 <br><br>
 <img src="images/defisc.png?raw=true"/>
 
----
+<br>
+
 __PNW Blockchain__
 <br>
 [PNW Blockchain](https://www.pnwblockchain.com/) promotes the Seattle blockchain community. Looking to get involved in the Pacific Northwest Blockchain community? Seth is happy to get you connected! [Twitter](https://twitter.com/pnwblockchain)
