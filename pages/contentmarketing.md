@@ -17,3 +17,5 @@ external audiences into alignment for success.
 
 From copy and presentations to podcasts and videos, Seth can help craft and execute effective content strategies necessary that tell those
 stories.
+
+### <a href="http://sethgoldfarbthewriter.com">Home</a>
