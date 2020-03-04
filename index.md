@@ -33,7 +33,6 @@ Telegram: <a href="https://t.me/sethgoldfarb" target="_blank">@sethgoldfarb</a>
 ---
 
 ## Writing
-<br>
 Seth's [publications](https://docs.google.com/spreadsheets/d/13bRyko9UmfNpYWu71-CijDEloMyfw2jTbXsmLbcHHW0/edit#gid=0) make emerging technologies more accessible.
 * Blogs
   * [bZx](https://bzx.network/blog/)
