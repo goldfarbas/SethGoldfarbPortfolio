@@ -22,13 +22,17 @@ Telegram: <a href="https://t.me/sethgoldfarb" target="_blank">@sethgoldfarb</a>
 
 <a href="../pages/ssi"><img src="images/evernymlogo.png?raw=true"/></a>
 
+## How do we pivot a startup?
+
+<a href="../pages/plutus"><img src="images/plutblockwhite.png?raw=true"/></a>
+
 ## What's the latest in blockchain?
 
 <a href="../pages/news"><img src="images/news.png?raw=true"/></a>
 
 ---
 
-__Writing__
+## Writing
 <br>
 Seth's [publications](https://docs.google.com/spreadsheets/d/13bRyko9UmfNpYWu71-CijDEloMyfw2jTbXsmLbcHHW0/edit#gid=0) make emerging technologies more accessible.
 * Blogs
@@ -65,7 +69,7 @@ __PNW Blockchain__
 
 __Kyber Network bounty at ETHDenver 2020__
 <br>
-Team Hakcers won a bounty for Alfred, a crypto inheritance tool that helps people create a "crypto will," generates proof-of-death, and enables designated executors to distribute digital assets to beneficiaries. Thanks to our integration with Kyber, beneficiaries can decide whether they prefer to receive assets "as-is" or automatically convert them to Ether. [Repo](https://github.com/EthDenverHakcers) - [Slides](https://docs.google.com/presentation/d/14dsJ4v3y4DajJrekZNGvf-3xzFZHW7Y39WFRkdLKypk/edit?usp=sharing) - [Video](https://youtu.be/qtGh3Ubjjnc)
+Team Hakcers won a bounty for Alfred, a crypto inheritance tool that helps people create a "crypto will," generates proof-of-death, and enables designated executors to distribute digital assets to beneficiaries. Our integration with Kyber allows beneficiaries to receive assets "as-is" or automatically convert them to Ether. [Repo](https://github.com/EthDenverHakcers) - [Slides](https://docs.google.com/presentation/d/14dsJ4v3y4DajJrekZNGvf-3xzFZHW7Y39WFRkdLKypk/edit?usp=sharing) - [Video](https://youtu.be/qtGh3Ubjjnc)
 <br><br>
 <img src="images/ETHDenver.png?raw=true"/>
 
