@@ -8,3 +8,4 @@ Startups are defined by the stories they tell and their ability to bring those s
 
 Seth Goldfarb helps businesses craft the stories of their success through compelling copy and content marketing. 
 
+### <a href="http://sethgoldfarbthewriter.com">Home</a>
