@@ -18,13 +18,9 @@ Telegram: <a href="https://t.me/sethgoldfarb" target="_blank">@sethgoldfarb</a>
 
 <a href="../pages/defi"><img src="images/defilogos.png?raw=true"/></a>
 
-<br>
-
 ## What's the business case for self-sovereign identity?
 
 <a href="../pages/ssi"><img src="images/evernymlogo.png?raw=true"/></a>
-
-<br>
 
 ## What's the latest in blockchain?
 
@@ -56,8 +52,6 @@ __DeFi School__
 [DeFi School](https://defi.school/) is dedicated to educating people on the emerging field of decentralized finance (DeFi). DeFi is a movement to develop transparent, open-source financial software that remains available to users without regard for traditional gatekeepers.
 <br><br>
 <img src="images/defisc.png?raw=true"/>
-
-<br>
 
 __PNW Blockchain__
 <br>
