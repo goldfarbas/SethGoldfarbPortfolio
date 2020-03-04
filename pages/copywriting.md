@@ -20,5 +20,4 @@ Seth's web copy makes the following websites more accessible:
 ### <a href="http://www.jerrygoldfarbthechef.com/" target="_blank">JerryGoldfarbTheChef.com</a>
 <a href="http://www.jerrygoldfarbthechef.com/" target="_blank"><img src="../images/jerrygchef.png?raw=true"/></a>
 
-### SEO
-
+### <a href="http://sethgoldfarbthewriter.com">Home</a>
