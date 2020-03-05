@@ -6,4 +6,4 @@ Read Seth's journalism in [CryptoSlate](https://cryptoslate.com/author/seth-gold
 
 <br>
 
-### <a href="http://sethgoldfarbthewriter.com">Home</a>
+### <a href="/SethGoldfarbPortfolio">Home</a>
