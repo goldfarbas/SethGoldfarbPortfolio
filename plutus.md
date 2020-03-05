@@ -11,4 +11,4 @@ Read his work on Plutus DeFi's blog at [https://medium.com/plutusdefi](https://m
 
 <br>
 
-## <a href="http://sethgoldfarbthewriter.com">Home</a>
+## <a href="/SethGoldfarbPortfolio">Home</a>
