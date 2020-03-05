@@ -1,6 +1,6 @@
 ## How do you make DeFi accessible?
 
-<img src="images/defilogos.png?raw=true"/>
+<img src="images/defilogos.png?raw=true/">
 
 * DeFi Prime
   * [A guide to financial risk in DeFi](https://defiprime.com/risks-in-defi)
