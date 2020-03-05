@@ -9,4 +9,4 @@ Read Seth's work on the value proposition of self-sovereign identity in various 
 
 <br>
 
-### <a href="http://sethgoldfarbthewriter.com">Home</a>
+### <a href="/SethGoldfarbPortfolio">Home</a>
