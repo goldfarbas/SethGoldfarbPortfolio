@@ -20,15 +20,15 @@ Telegram: <a href="https://t.me/sethgoldfarb" target="_blank">@sethgoldfarb</a>
 
 ## What's the business case for self-sovereign identity?
 
-<a href="../SethGoldfarbPortfolio/ssi"><img src="images/evernymlogo.png?raw=true"/></a>
+<a href="/SethGoldfarbPortfolio/ssi"><img src="images/evernymlogo.png?raw=true"/></a>
 
 ## How do we pivot a startup?
 
-<a href="goldfarbas.github.io/plutus"><img src="images/plutblockwhite.png?raw=true"/></a>
+<a href="/SethGoldfarbPortfolio/plutus"><img src="images/plutblockwhite.png?raw=true"/></a>
 
 ## What's the latest in blockchain?
 
-<a href="goldfarbas.github.io/SethGoldfarbPortfolio/news"><img src="images/news.png?raw=true"/></a>
+<a href="/SethGoldfarbPortfolio/news"><img src="images/news.png?raw=true"/></a>
 
 ---
 
