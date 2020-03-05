@@ -12,4 +12,4 @@ Seth's web copy makes it easier to understand decentralized lending and margin t
 
 <br>
 
-### <a href="http://sethgoldfarbthewriter.com">Home</a>
+### <a href="/SethGoldfarbPortfolio">Home</a>
