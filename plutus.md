@@ -2,10 +2,14 @@
 
 <img src="images/plutblockwhite.png?raw=true"/>
 
-Helis Network developed a cryptocurrency-based payroll product and an active community before rebranding to Plutus DeFi to focus on
-launching a privacy-enabled decentralized lending aggregator.
+Helis Network developed a cryptocurrency-based payroll product and an active community before rebranding to Plutus DeFi to launch a privacy-enabled decentralized lending aggregator.
 
-Seth's content and community management helped guide investors and community members through the transition with minimal friction.
+In addition to minimizing friction for investors and community members during the transition, Seth's content developed Plutus DeFi's 
+brand as a champion of privacy in DeFi and enabled Plutus DeFi to rank on the front page of Google for "Risk in DeFi" and "DeFi privacy."
+
+<img src="images/seoriskdefi.png?raw=true"/>
+
+<img src="images/seodefiprivacy.png?raw=true"/>
 
 Read his work on Plutus DeFi's blog at [https://medium.com/plutusdefi](https://medium.com/plutusdefi).
 
