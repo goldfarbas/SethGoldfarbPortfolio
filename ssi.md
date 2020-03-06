@@ -10,6 +10,8 @@ Evernym is a consulting company that helped develop and standardize decentralize
 Seth's writing provided insight into the opportunities associated with the application of self-sovereign identity in industries like 
 [healthcare,](https://www.evernym.com/blog/claims-verification-healthcares-496b-problem/) [insurance,](https://www.evernym.com/blog/decentralized-identity-customer-experience-insurance/) and [finance](https://www.evernym.com/blog/six-ways-self-sovereign-identity-is-transforming-financial-services/).
 
+<img src="images/evernymblog.png?raw=true"/>
+
 Read Seth's work on the value proposition of self-sovereign identity at <a href="http://evernym.com/blog">http://evernym.com/blog></a>
 
 <br>
