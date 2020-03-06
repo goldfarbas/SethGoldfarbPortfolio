@@ -4,12 +4,32 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta prefix="og: http://ogp.me/ns#" property="og:description" content="Seth Goldfarb is a Seattle-based marketing professional who 
+      helps startups craft the stories of their success">
+    <meta prefix="og: http://ogp.me/ns#" property="og:image" content="/images/image (1).png?raw=true">
+    <meta prefix="og: http://ogp.me/ns#" property="og:url" content="SethGoldfarbPortfolio">
+    <meta prefix="og: http://ogp.me/ns#" property="og:title" content="Seth Goldfarb - Content Marketing">
+    <meta prefix="og: http://ogp.me/ns#" property="og:type" content="website">
+    
+    <meta name="twitter:card" content="/images/image (1).png?raw=true">
+    <meta name="twitter:site" content="https://sethgoldfarbthewriter.com">
+    <meta name="twitter:title" content="Seth Goldfarb - Content Marketing">
+    <meta name="twitter:description" content="Seth Goldfarb is a Seattle-based marketing professional who helps startups craft the 
+      stories of their success">
+    <meta name="twitter:image" content="/images/image (1).png?raw=true">
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+    
+    <meta prefix="og: http://sethgoldfarbthewriter.com" property="og:description" content="{% if page.description %}{{ page.description}}{% else %}{{ site.data.general.description}}{% endif %}">
+    <meta name="twitter:title" content="{% if page.title%}{{ page.title }}{% else %}{{ site.data.general.title}}{% endif %}">
+
+<meta prefix="og: http://sethgoldfarbthewriter.com" property="og:title" content="{% if page.title%}{{ page.title }}{% else %}{{ site.data.general.title}}{% endif %}">
+
+<meta name="twitter:image" content="{% if page.image %}{{ page.image }}{% else %}{{ site.data.general.image}}{% endif %}">
   </head>
   <body>
     <div class="wrapper">
