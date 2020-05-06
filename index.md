@@ -14,7 +14,11 @@ Telegram: <a href="https://t.me/sethgoldfarb" target="_blank">@sethgoldfarb</a>
 <br>
 <a href="https://docs.google.com/spreadsheets/d/13bRyko9UmfNpYWu71-CijDEloMyfw2jTbXsmLbcHHW0/edit#gid=0" target="_blank">Publications</a>
 
-## How do you make DeFi accessible?
+## How can we make cryptocurrency more accessible?
+
+<a href="/SethGoldfarbPortfolio/bam"><img src="images/binanceus.png?raw=true"/></a>
+
+## How can we engage our DeFi community?
 
 <a href="/SethGoldfarbPortfolio/defi"><img src="images/defilogos.png?raw=true"/></a>
 
@@ -66,7 +70,13 @@ __PNW Blockchain__
 
 ## Awards 
 
-__Kyber Network bounty at ETHDenver 2020__
+__2nd Place, Gnosis bounty at MetaCartel Dragon Quest hackathon__
+<br>
+Team Hakcers took 2nd place out of 70 entries as well as a bounty for building a recovery dApp using Gnosis' contract proxy kit by with a decentralized crypto inheritance tool. Alfred enables designated executors to distribute digital assets to beneficiaries when the user fails to check in using the customizable dead man's switch. [Repo](https://github.com/BatmansButler/alfred-dapp) - [Video](https://youtu.be/855X8umwjl8)
+<br><br>
+<img src="images/dragquemeta.png?raw=true"/>
+
+__Kyber Network bounty at ETHDenver 2020 hackathon__
 <br>
 Team Hakcers won a bounty for Alfred, a crypto inheritance tool that helps people create a "crypto will," generates proof-of-death, and enables designated executors to distribute digital assets to beneficiaries. Our integration with Kyber allows beneficiaries to receive assets "as-is" or automatically convert them to Ether. [Repo](https://github.com/EthDenverHakcers) - [Slides](https://docs.google.com/presentation/d/14dsJ4v3y4DajJrekZNGvf-3xzFZHW7Y39WFRkdLKypk/edit?usp=sharing) - [Video](https://youtu.be/qtGh3Ubjjnc)
 <br><br>
