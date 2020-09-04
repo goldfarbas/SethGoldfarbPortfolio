@@ -2,7 +2,7 @@ title: Seth Goldfarb<br>Marketing and Communications # your name (or website tit
 tagline: The portfolio of Seth Goldfarb
 url: sethgoldfarbthewriter.com
 logo: /images/image (1).png?raw=true # your photo (or logo) here
-description: Making emerging technologies more accessible # your text below (remove <br> elements if you don't need line breaks)
+description: Finding markets for emerging technologies # your text below (remove <br> elements if you don't need line breaks)
 plugins:
   - jekyll-sitemap
   - Jekyll-SEO-Tag
