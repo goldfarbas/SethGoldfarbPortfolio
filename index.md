@@ -46,7 +46,7 @@ Seth's [publications](https://docs.google.com/spreadsheets/d/13bRyko9UmfNpYWu71-
 
 __2nd Place, Gnosis bounty at MetaCartel Dragon Quest hackathon__
 <br>
-Team Hakcers took 2nd place out of 70 entries as well as a bounty for building a recovery dApp using Gnosis' contract proxy kit by with a decentralized crypto inheritance tool. Alfred enables designated executors to distribute digital assets to beneficiaries when the user fails to check in using the customizable dead man's switch. [Repo](https://github.com/BatmansButler/alfred-dapp) - [Video](https://youtu.be/855X8umwjl8)
+Team Hakcers took 2nd place out of 70 entries and a bounty for building a recovery dApp using Gnosis' contract proxy kit for a decentralized crypto inheritance solution. Alfred enables designated executors to distribute digital assets to beneficiaries when the user fails to check in using the customizable dead man's switch. [Repo](https://github.com/BatmansButler/alfred-dapp) - [Video](https://youtu.be/855X8umwjl8)
 <br><br>
 <img src="images/dragquemeta.png?raw=true"/>
 
@@ -66,14 +66,9 @@ Seth and his teammate took 3rd place in the Interoperability Challenge at the 20
 
 ## Volunteer Work
 
-__DeFi School__
-<br>
-[DeFi School](https://defi.school/) is dedicated to educating people on the emerging field of decentralized finance (DeFi). DeFi is a movement to develop transparent, open-source financial software that remains available to users without regard for traditional gatekeepers.
-<br><br>
-<img src="images/defisc.png?raw=true"/>
-
 __PNW Blockchain__
 <br>
-[PNW Blockchain](https://www.pnwblockchain.com/) promotes the Seattle blockchain community. Looking to get involved in the Pacific Northwest Blockchain community? Seth is happy to get you connected! [Twitter](https://twitter.com/pnwblockchain)
+[PNW Blockchain](https://www.pnwblockchain.com/) hosted and promoted meetups to educate people on blockchain and cryptocurrency in the Seattle area.
+ [Twitter](https://twitter.com/pnwblockchain)
 <br><br>
 <img src="images/pnwb.png?raw=true"/>
