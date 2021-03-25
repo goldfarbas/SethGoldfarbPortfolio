@@ -14,21 +14,13 @@ Telegram: <a href="https://t.me/sethgoldfarb" target="_blank">@sethgoldfarb</a>
 <br>
 <a href="https://docs.google.com/spreadsheets/d/13bRyko9UmfNpYWu71-CijDEloMyfw2jTbXsmLbcHHW0/edit#gid=0" target="_blank">Publications</a>
 
-## How can we make cryptocurrency more accessible?
-
-<a href="/SethGoldfarbPortfolio/bam"><img src="images/binanceus.png?raw=true"/></a>
-
-## How can we engage our DeFi community?
+## How can we make blockchain, cryptocurrency, and DeFi more accessible?
 
 <a href="/SethGoldfarbPortfolio/defi"><img src="images/defilogos.png?raw=true"/></a>
 
 ## What's the business case for self-sovereign identity?
 
 <a href="/SethGoldfarbPortfolio/ssi"><img src="images/evernymlogo.png?raw=true"/></a>
-
-## How do we pivot a startup?
-
-<a href="/SethGoldfarbPortfolio/plutus"><img src="images/plutblockwhite.png?raw=true"/></a>
 
 ## What's the latest in blockchain?
 
@@ -40,13 +32,11 @@ Telegram: <a href="https://t.me/sethgoldfarb" target="_blank">@sethgoldfarb</a>
 Seth's [publications](https://docs.google.com/spreadsheets/d/13bRyko9UmfNpYWu71-CijDEloMyfw2jTbXsmLbcHHW0/edit#gid=0) make emerging technologies more accessible.
 * Blogs
   * [bZx](https://bzx.network/blog/)
-  * [Plutus DeFi](https://medium.com/plutusdefi)
   * [Evernym](http://evernym.com/blog)
 * Journalism
   * [CryptoSlate](https://cryptoslate.com/author/seth-goldfarb/)
   * [Decrypt](https://decrypt.co/author/sethgoldfarb)
 * Social Media
-  * [Plutus DeFi](https://twitter.com/plutusdefi)
   * [DeFi School](https://twitter.com/defi_school)
   * [PNW Blockchain](https://twitter.com/pnwblockchain)
 
