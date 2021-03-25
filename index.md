@@ -16,7 +16,7 @@ Telegram: <a href="https://t.me/sethgoldfarb" target="_blank">@sethgoldfarb</a>
 
 ## How can we make blockchain, cryptocurrency, and DeFi more accessible?
 
-<a href="/SethGoldfarbPortfolio/defi"><img src="images/defilogos.png?raw=true"/></a>
+<a href="/SethGoldfarbPortfolio/defi"><img src="images/BDB.png?raw=true"/></a>
 
 ## What's the business case for self-sovereign identity?
 
